@@ -1,15 +1,14 @@
 Package: bojack
-Title: What the Package Does (One Line, Title Case)
+Title: Bojack: Day-to-day helper functions
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Will",
+           family = "Fincham",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "wilfinc@ceh.ac.uk",
+           comment = c(ORCID = "0000-0003-0614-3937"))
+Description: Helper functions. Builds ongoing.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
